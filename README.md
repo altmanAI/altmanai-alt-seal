@@ -30,7 +30,7 @@
 ## How to use this emblem publicly
 - The emblem may be displayed **only** on artifacts that pass **ALT-SEAL™** eligibility (see policy PDF).
 - Do not imply endorsement beyond the sealed artifact’s scope.
-- For media inquiries: press@altmanfamilygroup.example
+- For media inquiries: press@altmanfamilygroup.com
 
 ## Getting started (GitHub Pages)
 - Go to **Settings → Pages**, choose **Branch: main, Folder: /docs**, and **Save**.
